@@ -1,4 +1,4 @@
-# Retail Performance Intelligence Dashboard — End-to-End Excel Analytics
+# Retail Performance Analysis & Excel Dashboard
 
 ## Project Overview
 
